@@ -5,6 +5,8 @@ Implement a GitHub Actions pipeline to deploy to AKS from a GitHub repo.
 
 Test1
 
+Test2
+
 In this module you will:
 
 - Deploy an existing ASP.NET Core microservices application to AKS.
