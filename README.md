@@ -7,6 +7,8 @@ Test1
 
 Test2
 
+Test3
+
 In this module you will:
 
 - Deploy an existing ASP.NET Core microservices application to AKS.
