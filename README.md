@@ -3,8 +3,7 @@
 Implement a GitHub Actions pipeline to deploy to AKS from a GitHub repo.
 
 
-Test1Change
-Teeest
+Test1
 
 In this module you will:
 
